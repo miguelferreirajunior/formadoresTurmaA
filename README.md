@@ -1,2 +1,2 @@
 # formadoresTurmaA
-Repositório para formadores - Pensamento Computacional - Turma A
+Repositório da Turma A - Formadores em Ação - Pensamento Computacional
