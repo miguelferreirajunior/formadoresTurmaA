@@ -1,22 +1,22 @@
 #tituloprincipal{
-    color:#006400;
+    color:rgb(0,100,0);
     text-align:center;
     font-size: 50px;
 }
 
 .caracteristicas{
-    color:#228B22
+    color:rgb(34,139,34)
 }
 
 .glossario{
-    color:#191970 
+    color:rgb(25,25,112)
 }
 
 .classificacao{
-    color:#228B22
+    color:rgb(34,139,34)
 }
 
-.contrucao{
+.construcao{
     color:red
 }
 
