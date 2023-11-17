@@ -3,23 +3,23 @@
     color:rgb(0,100,0);
     text-align:center;
     font-size: 50px;
-    margin:auto;
-    padding: auto;
+    margin:5px;
+    padding: 5px;
 
 }
 
 #imgprincipal{
-    width: 500px; /*largura*/
+    width: 500px;
     display: block;
     margin: auto;
-    margin:10px;
-    padding:10px;
+    margin:5px;
+    padding:5px;
 }
 
 .imgbryophyta{
     width: 300px;
-    margin:10px;
-    padding:10px;
+    margin:5px;
+    padding:5px;
 }
 
 .imgpteridophyta{
