@@ -3,20 +3,29 @@
     color:rgb(0,100,0);
     text-align:center;
     font-size: 50px;
+    margin:auto;
+    padding: auto;
+
 }
 
 #imgprincipal{
     width: 500px; /*largura*/
     display: block;
     margin: auto;
+    margin:10px;
+    padding:10px;
 }
 
 .imgbryophyta{
-    width: 400px;
+    width: 300px;
+    margin:10px;
+    padding:10px;
 }
 
 .imgpteridophyta{
-    width: 400px;
+    width: 300px;
+    margin:10px;
+    padding:10px;
 }
 
 .caracteristicas{
