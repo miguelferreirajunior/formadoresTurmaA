@@ -9,7 +9,7 @@
 }
 
 #imgprincipal{
-    text-align: center;
+    align-items: center;
     width: 500px;
     display: block;
     margin:5px;
@@ -24,8 +24,8 @@
 
 .imgpteridophyta{
     width: 300px;
-    margin:10px;
-    padding:10px;
+    margin:5px;
+    padding:5px;
 }
 
 .caracteristicas{
