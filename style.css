@@ -10,7 +10,9 @@
 }
 
 #imgprincipal{
-    width:100px:
+    width: 100px;
+    display: block;
+    margin: auto;
 }
 
 .caracteristicas{
