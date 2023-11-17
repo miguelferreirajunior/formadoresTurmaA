@@ -9,9 +9,9 @@
 }
 
 #imgprincipal{
+    text-align: center;
     width: 500px;
     display: block;
-    margin: auto;
     margin:5px;
     padding:5px;
 }
