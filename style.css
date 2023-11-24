@@ -1,3 +1,7 @@
+.titulo{
+
+}
+
 #tituloprincipal{
     background-color: lightgreen;
     color:rgb(0,100,0);
@@ -13,6 +17,26 @@
     margin:auto;
 }
 
+.parte1{
+
+}
+
+.caracteristicas{
+    color:rgb(34,139,34)
+}
+
+.parte2{
+
+}
+
+.classificacao{
+    color:rgb(34,139,34)
+}
+
+.construcao{
+    color:red;
+}
+
 .imgbryophyta{
     width: 300px;
     margin:5px;
@@ -25,20 +49,8 @@
     padding-top:5px;
 }
 
-.caracteristicas{
-    color:rgb(34,139,34)
-}
-
 .glossario{
     color:rgb(25,25,112)
-}
-
-.classificacao{
-    color:rgb(34,139,34)
-}
-
-.construcao{
-    color:red;
 }
 
 p{
