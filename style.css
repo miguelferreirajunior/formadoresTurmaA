@@ -6,7 +6,12 @@ header{
     justify-content:center;
 }
 
-.menu-item{}
+.menu-item{
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
 
 #tituloprincipal{
     background-color: lightgreen;
