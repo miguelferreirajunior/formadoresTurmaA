@@ -3,7 +3,7 @@ header{
     margin: 0px;
     padding: 30px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 #tituloprincipal{
