@@ -2,7 +2,7 @@ header{
     background-color: lightgreen;
     margin: 0px;
     padding: 30px;
-    border: 10px darkgreen;
+    display: flex;
 }
 
 #tituloprincipal{
@@ -18,6 +18,7 @@ header{
     width: 500px;
     display: block;
     margin:auto;
+    border-radius: 5px;
 }
 
 .div1{
